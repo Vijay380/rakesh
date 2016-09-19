@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43" started-at="2016-09-19T00:28:24Z" finished-at="2016-09-19T00:28:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43" started-at="2016-09-19T00:28:24Z" finished-at="2016-09-19T00:28:24Z">
+      <class name="pack.Git">
+        <test-method status="PASS" signature="testGit()[pri:0, instance:pack.Git@2096442d]" name="testGit" duration-ms="17" started-at="2016-09-19T05:58:24Z" finished-at="2016-09-19T05:58:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGit -->
+      </class> <!-- pack.Git -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
